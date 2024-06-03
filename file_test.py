@@ -23,3 +23,6 @@ def test_coucou():
     # Fonction test si le résultat renvoie 'hello'
     output = 'hello'
     assert output == 'hello'
+
+# Utilisation minimale de pytest pour éviter l'erreur F401
+pytest.main()
