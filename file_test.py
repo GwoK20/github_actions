@@ -26,4 +26,4 @@ def test_coucou():
 
 
 # Utilisation minimale de pytest pour éviter l'erreur F401
-pytest.main()
+# pytest.main()
