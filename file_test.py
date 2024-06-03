@@ -24,5 +24,6 @@ def test_coucou():
     output = 'hello'
     assert output == 'hello'
 
+
 # Utilisation minimale de pytest pour éviter l'erreur F401
 pytest.main()
